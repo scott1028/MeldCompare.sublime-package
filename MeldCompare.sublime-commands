@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "MeldCompare: Show Diff",
+    "command": "meld_compare"
+  }
+]

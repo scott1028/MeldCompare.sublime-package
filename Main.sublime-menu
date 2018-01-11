@@ -1,0 +1,47 @@
+[
+	{
+		"id": "tools",
+		"children":
+		[
+			{ "id": "end" },
+			{
+				"caption": "MeldCompare: Show Diff",
+				"command": "meld_compare",
+				"id": "meld-compare-launch"
+			}
+		]
+	},
+	{
+		"caption": "Preferences",
+		"id": "preferences",
+		"mnemonic": "n",
+		"children": [
+			{
+				"caption": "Package Settings",
+				"id": "package-settings",
+				"mnemonic": "P",
+				"children": [
+					{
+						"caption": "Meld Compare",
+						"children": [
+							{
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/MeldCompare/MeldCompare.sublime-settings"
+								},
+								"caption": "Settings – Default"
+							},
+							{
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/User/MeldCompare.sublime-settings"
+								},
+								"caption": "Settings – User"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

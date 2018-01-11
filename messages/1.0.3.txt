@@ -1,0 +1,3 @@
+MeldCompare 1.0.3
+-------------------
+- Adds an extra menu command to the right-click context menu

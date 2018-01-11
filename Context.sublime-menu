@@ -1,0 +1,4 @@
+[
+    { "caption": "-", "id": "diff" },
+    { "command": "meld_compare", "caption":"MeldCompare: Show Diff"}
+]
