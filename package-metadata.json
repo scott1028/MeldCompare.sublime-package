@@ -1,1 +1,8 @@
-{"dependencies": [], "description": "Plugin that enables comparison of the last 2 activated buffers (even in different windows) using MeldCompare.", "url": "https://github.com/npadley/MeldCompare", "platforms": ["*"], "version": "2.0.4", "sublime_text": "*"}
+{
+    "dependencies": [],
+    "description": "Plugin that enables comparison of the last 2 activated buffers (even in different windows) using MeldCompare.",
+    "url": "https://github.com/scott1028/MeldCompare.sublime-package",
+    "platforms": ["*"],
+    "version": "1.0.0",
+    "sublime_text": "*"
+}
